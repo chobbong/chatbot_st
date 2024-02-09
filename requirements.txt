@@ -1,4 +1,4 @@
-langhcahin
+langchain
 openai
 tiktoken
 tqdm
