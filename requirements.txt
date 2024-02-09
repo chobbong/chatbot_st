@@ -1,0 +1,7 @@
+langhcahin
+openai
+tiktoken
+tqdm
+pinecone-client
+streamlit
+streamlit_chat
